@@ -5,10 +5,10 @@ Welcome to my Github page. This is a brief summary of the projects that I have c
 #### Capstone Project
 Online content is rife with clickbait articles. I predicted whether an article was clickbait or not using natural language processing (NLP), incorporating simple classifiers as well as neural network models. 
 
-#### Project 1: Pokemon
+#### Project 1
 Using the Pokemon dataset, containing a list of all first generation Pokemon, I created a "Pokedex" that allows for the addition of new players into a dictionary. Basic descriptive statistics with functions to enable in-game mechanics like calculating the probability of encountering a Pokemon.
 
-#### Project 2: SAT score EDA
+#### Project 2
 I examined the SAT scores across different states in the US and performed EDA on the dataset.
 
 #### Project 3
